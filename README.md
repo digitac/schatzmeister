@@ -160,5 +160,8 @@ Durch Anwendung dieser Regeln verhindern wir Konflikte. Ich bitte um Einhaltung.
 Wir implementieren ausschließlich mit ARC (Automatic Reference Count) Bitte also nur "strong", nie "retain" verwenden.
 Bitte keine Threads benutzen, sondern dispatch_queues.
 
+
+Kommentare bitte im Appledoc-Style.
+
 BeBopp
 
